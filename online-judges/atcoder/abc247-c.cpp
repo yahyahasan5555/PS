@@ -1,5 +1,5 @@
 // https://atcoder.jp/contests/abc247/tasks/abc247_c?lang=en
-// Topic: Rescursion - N-Queens problem
+// Topic: Rescursion
 
 #include<bits/stdc++.h>
  
