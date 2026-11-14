@@ -2,12 +2,12 @@
 
 Problem-solving lecture notes + C++ code.
 
-| File                                                                                                                                                   | What it has                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| [`bit_operations.cpp`]([https://claude.ai/chat/bit_operations.cpp](https://github.com/yahyahasan5555/PS/blob/main/topics/bitmasks/bit-operations.cpp)) | get / set / clear / toggle bit, count bits, power of 2, MSB / LSB, prefix AND / OR / XOR |
-| [`bitset_demo.cpp`]([https://claude.ai/chat/bitset_demo.cpp](https://github.com/yahyahasan5555/PS/blob/main/topics/bitmasks/bitset-operations.cpp))    | `std::bitset` functions with examples                                                    |
-| `apple_division.cpp`                                                                                                                                   | CSES 1623 solution (complete search with a bit-mask)                                     |
-|                                                                                                                                                        |                                                                                          |
+| File                                                                                                       | What it has                                                                              |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [`bit_operations.cpp`](https://github.com/yahyahasan5555/PS/blob/main/topics/bitmasks/bit-operations.cpp)) | get / set / clear / toggle bit, count bits, power of 2, MSB / LSB, prefix AND / OR / XOR |
+| [`bitset_demo.cpp`](https://github.com/yahyahasan5555/PS/blob/main/topics/bitmasks/bitset-operations.cpp)) | `std::bitset` functions with examples                                                    |
+| `apple_division.cpp`                                                                                       | CSES 1623 solution (complete search with a bit-mask)                                     |
+|                                                                                                            |                                                                                          |
 
 ---
 
